@@ -2,6 +2,7 @@
 PythonAIAgent Tutorial from Tech with Tim - USING RAG
 # What are we doing?
 - - Query over pandas data - read our csv file - query on top of it - ask questions based on that data source using kind of a streamline agent
+- create a query engine , which allows us to ask specific questions about the pandas data source - `pip install llama-index-experimental`
 # Commands & setup Info
 - Firstly create a virtual environment - `python3 -m venv ai` here ai is the name of the virtual env folder 
 - Then activate the virtual env - Windows : `source ai/scripts/activate`
